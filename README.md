@@ -31,8 +31,7 @@ Artificial Intelligence Developer
 <p align="left">
 <a href="https://www.github.com/Rishh2005/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="http://www.instagram.com/rishh.hehe/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/rishabh-jain-625955293/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://www.hackerrank.com/profile/rishabhjain1175" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hackerrank.svg" width="32" height="32" alt="HackerRank" /></a>
+<a href="https://www.linkedin.com/in/rishabh-jain-625955293/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a
 </p>
 
 ### Badges
