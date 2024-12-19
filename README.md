@@ -46,8 +46,4 @@ Artificial Intelligence Developer
 
 <a href="https://github.com/Rishh2005/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### What's New
 
-- Integrated updated GitHub stats, streak stats, and activity graph.
-- Updated links and icons for a more consistent appearance.
-- Enhanced readability with improved formatting.
