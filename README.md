@@ -56,9 +56,9 @@ I’m a passionate **AI Developer** exploring the intersections of **AI**, **web
 
 ## 📈 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=FFA500&text_color=ffffff&icon_color=FFA500&bg_color=1c1c1c&hide_border=true)](http://www.github.com/Rishh2005/)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=ffffff&background=1c1c1c&ring=FFA500&fire=FFA500&currStreakNum=ffffff&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Rishh2005/)  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=1c1c1c&color=ffffff&line=FFA500&point=ffffff&area_color=1c1c1c&area=true&hide_border=true)](http://www.github.com/Rishh2005/)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=32CD32&text_color=ffffff&icon_color=32CD32&bg_color=1c1c1c&hide_border=true)](http://www.github.com/Rishh2005/)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=ffffff&background=1c1c1c&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Rishh2005/)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=1c1c1c&color=ffffff&line=32CD32&point=ffffff&area_color=1c1c1c&area=true&hide_border=true)](http://www.github.com/Rishh2005/)  
 
 ---
 
