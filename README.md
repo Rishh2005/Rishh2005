@@ -82,7 +82,7 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
   </a>
 </div>
 
-<div align="center">
+div align="center">
   <a href="http://www.github.com/Rishh2005">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
   </a>
