@@ -109,5 +109,5 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 ---
 
 <div align="center">
-  <i>Happy Coding! 🚀</i>
+  <i>Happy Coding! </i>
 </div>
