@@ -72,6 +72,12 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
   </a>
 </div>
 
+  </a>
+  <a href="https://www.hackerrank.com/profile/rishabhjain1175
+    " target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</div>
 ## 📊 GitHub Statistics
 
 <b>My GitHub Activity</b>
