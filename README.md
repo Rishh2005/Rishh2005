@@ -86,14 +86,14 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 
 <div align="center">
   <a href="http://www.github.com/Rishh2005">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rishh2005's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&hide=&count_private=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rishh2005's GitHub stats" />
   </a>
 </div>
 
 <div align="center" style="max-width: 100%; overflow-x: auto;">
   <a href="http://www.github.com/Rishh2005" target="_blank" rel="noreferrer">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=0891b2&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&currStreakLabel=3b82f6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=FF0000&background=1c1917&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" 
       alt="GitHub Streak Stats" 
       style="width: 100%; max-width: 500px; height: auto;"
     />
@@ -102,13 +102,13 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 
 <div align="center">
   <a href="https://github.com/Rishh2005">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=10&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
   <a href="http://www.github.com/Rishh2005">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=1c1917&color=FF0000&line=FF0000&point=FFFFFF&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
   </a>
 </div>
 
