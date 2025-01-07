@@ -82,35 +82,48 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 
 ## 📊 GitHub Statistics
 
-<b>My GitHub Activity</b>
+<h2 align="center" style="font-size: 1.3rem; color: #00FF00;">My GitHub Activity</h2>
 
 <div align="center">
-  <a href="http://www.github.com/Rishh2005">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&hide=&count_private=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rishh2005's GitHub stats" />
+  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=1c1917&hide_border=true" 
+      alt="Rishh2005's GitHub Stats"
+      style="width: 100%; max-width: 250px; margin: 10px 0;"
+    />
   </a>
 </div>
 
-<div align="center" style="max-width: 100%; overflow-x: auto;">
-  <a href="http://www.github.com/Rishh2005" target="_blank" rel="noreferrer">
+<div align="center" style="max-width: 100%; margin: 20px 0;">
+  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=FF0000&background=1c1917&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=32CD32&background=0d1117&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=32CD32&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=400" 
       alt="GitHub Streak Stats" 
-      style="width: 100%; max-width: 500px; height: auto;"
+      style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(50, 205, 50, 0.3);"
+    />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=6&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=1c1917&hide_border=true&layout=compact" 
+      alt="Top Languages"
+      style="width: 100%; max-width: 250px; margin: 10px 0;"
     />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Rishh2005">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=10&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=1c1917&color=00FF00&line=00FF00&point=FFFFFF&area_color=1c1917&area=true&hide_border=true" 
+      alt="GitHub Activity Graph"
+      style="width: 100%; max-width: 500px; margin: 10px 0;"
+    />
   </a>
 </div>
 
-<div align="center">
-  <a href="http://www.github.com/Rishh2005">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=1c1917&color=FF0000&line=FF0000&point=FFFFFF&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
-  </a>
-</div>
+
 
 ---
 
