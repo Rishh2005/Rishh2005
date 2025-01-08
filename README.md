@@ -77,62 +77,57 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 </div>
 
 ---
-
-
-
 ## 📊 GitHub Statistics
 
-<h2 align="center" style="font-size: 1.3rem; color: #00FF00;">My GitHub Activity</h2>
-
 <div align="center">
-  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
+  <h2 align="center" style="font-size: 1.5rem; color: #FF0000; text-shadow: 0 0 10px rgba(255,0,0,0.5);">
+    ⚡ My GitHub Activity ⚡
+  </h2>
+
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Rishh2005">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=1c1917&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=false&border_color=FF0000&border_radius=15&ring_color=FF0000" 
       alt="Rishh2005's GitHub Stats"
-      style="width: 100%; max-width: 250px; margin: 10px 0;"
+      style="width: 100%; max-width: 420px; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
     />
   </a>
-</div>
 
-<div align="center" style="max-width: 100%; margin: 20px 0;">
-  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
+  <!-- GitHub Streak Stats (Vercel-powered) -->
+  <a href="https://github.com/Rishh2005">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Rishh2005&stroke=32CD32&background=0d1117&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=32CD32&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=400" 
-      alt="GitHub Streak Stats" 
-      style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(50, 205, 50, 0.3);"
+      src="https://streak-stats.demolab.com/?user=Rishh2005&theme=dark&ring=FF0000&fire=FF4500&currStreakNum=FFFFFF&sideNums=FF0000&currStreakLabel=FF0000&dates=888888&sideLabels=FFFFFF&stroke=FF0000&background=0D1117&border=FF0000&border_radius=15" 
+      alt="GitHub Streak Stats"
+      style="width: 100%; max-width: 420px; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
     />
   </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
+
+  <!-- Top Languages -->
+  <a href="https://github.com/Rishh2005">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=6&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=1c1917&hide_border=true&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=8&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=false&border_color=FF0000&border_radius=15&layout=compact" 
       alt="Top Languages"
-      style="width: 100%; max-width: 250px; margin: 10px 0;"
+      style="width: 100%; max-width: 360px; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
     />
   </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/Rishh2005" target="_blank" rel="noreferrer">
+  <!-- Contribution Graph -->
+  <a href="https://github.com/Rishh2005">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=1c1917&color=00FF00&line=00FF00&point=FFFFFF&area_color=1c1917&area=true&hide_border=true" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=false&border_color=FF0000&custom_title=Contribution%20Graph" 
       alt="GitHub Activity Graph"
-      style="width: 100%; max-width: 500px; margin: 10px 0;"
+      style="width: 100%; max-width: 100%; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
     />
   </a>
 </div>
 
-
-
----
-
+<!-- Footer -->
 <div align="center">
-  <b>🌟 If you like my work, consider following and starring some repositories! 🌟</b>
+  <b style="color: #FF0000; font-size: 1.2rem;">🔥 If you enjoy my work, consider following me and starring my repositories! 🔥</b>
 </div>
 
 ---
 
 <div align="center">
-  <i>Happy Coding! </i>
+  <i style="color: #FF0000;">Happy Coding! 🚀</i>
 </div>
