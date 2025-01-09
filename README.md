@@ -79,55 +79,58 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 ---
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <h2 align="center" style="font-size: 1.5rem; color: #FF0000; text-shadow: 0 0 10px rgba(255,0,0,0.5);">
-    ⚡ My GitHub Activity ⚡
-  </h2>
+<b style="font-size: 1.8rem; color: #FF0000; text-shadow: 0 0 10px rgba(255, 0, 0, 0.7);">⚡ My GitHub Activity ⚡</b>
 
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/Rishh2005">
+<div align="center" style="margin: 20px 0;">
+  <!-- GitHub Stats -->
+  <a href="http://www.github.com/Rishh2005">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=false&border_color=FF0000&border_radius=15&ring_color=FF0000" 
-      alt="Rishh2005's GitHub Stats"
-      style="width: 100%; max-width: 420px; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
+      src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=true&border_radius=10&custom_title=Rishh2005's%20GitHub%20Stats" 
+      alt="GitHub Stats" 
+      style="width: 100%; max-width: 450px; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
     />
   </a>
+</div>
 
-  <!-- GitHub Streak Stats (Vercel-powered) -->
-  <a href="https://github.com/Rishh2005">
+<div align="center" style="margin: 20px 0; max-width: 100%; overflow-x: auto;">
+  <!-- GitHub Streak Stats -->
+  <a href="http://www.github.com/Rishh2005">
     <img 
-      src="https://streak-stats.demolab.com/?user=Rishh2005&theme=dark&ring=FF0000&fire=FF4500&currStreakNum=FFFFFF&sideNums=FF0000&currStreakLabel=FF0000&dates=888888&sideLabels=FFFFFF&stroke=FF0000&background=0D1117&border=FF0000&border_radius=15" 
-      alt="GitHub Streak Stats"
-      style="width: 100%; max-width: 420px; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
-    />
+  src="https://streak-stats.demolab.com?user=Rishh2005&theme=dark&ring=FF0000&fire=FF4500&currStreakNum=FFFFFF&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&hide_border=true&border_radius=10" 
+  alt="GitHub Streak Stats" 
+  style="width: 100%; max-width: 450px; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
+/>
   </a>
+</div>
 
+<div align="center" style="margin: 20px 0;">
   <!-- Top Languages -->
   <a href="https://github.com/Rishh2005">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=8&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=false&border_color=FF0000&border_radius=15&layout=compact" 
-      alt="Top Languages"
-      style="width: 100%; max-width: 360px; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=8&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=true&border_radius=10" 
+      alt="Top Languages" 
+      style="width: 100%; max-width: 400px; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
     />
   </a>
+</div>
 
-  <!-- Contribution Graph -->
-  <a href="https://github.com/Rishh2005">
+<div align="center" style="margin: 20px 0;">
+  <!-- GitHub Activity Graph -->
+  <a href="http://www.github.com/Rishh2005">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=false&border_color=FF0000&custom_title=Contribution%20Graph" 
-      alt="GitHub Activity Graph"
-      style="width: 100%; max-width: 100%; margin: 20px 0; filter: drop-shadow(0 0 10px rgba(255,0,0,0.3));"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=true&border_radius=10&custom_title=GitHub%20Activity%20Graph" 
+      alt="GitHub Activity Graph" 
+      style="width: 100%; max-width: 100%; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
     />
   </a>
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <b style="color: #FF0000; font-size: 1.2rem;">🔥 If you enjoy my work, consider following me and starring my repositories! 🔥</b>
+<div align="center" style="margin-top: 20px;">
+  <b style="font-size: 1.2rem; color: #FF0000; text-shadow: 0 0 10px rgba(255, 0, 0, 0.7);">
+    🔥 Love what you see? Follow me and star my repositories! 🔥
+  </b>
 </div>
 
----
-
-<div align="center">
-  <i style="color: #FF0000;">Happy Coding! 🚀</i>
+<div align="center" style="margin-top: 10px;">
+  <i style="font-size: 1rem; color: #FFFFFF;">Happy Coding! 🚀</i>
 </div>
