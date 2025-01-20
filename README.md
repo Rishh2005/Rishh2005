@@ -1,5 +1,7 @@
+
 # Rishabh Jain 👋
 ### Artificial Intelligence Developer & Full-Stack Engineer | Delhi, India 🌏
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdoNnF1NzA0Z2R4azV0ZzR3YnhmejYyM3R6MGZwd2k0eXM1NW9vciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif)]()
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=0891b2&style=flat-square)](https://github.com/Rishh2005)
 
@@ -64,7 +66,6 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 ### 🎮 Game Development
 ![Panda3D](https://img.shields.io/badge/Panda3D-003B57?style=for-the-badge&logo=panda3d&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-003B57?style=for-the-badge&logo=python&logoColor=white)
-
 
 ## 📈 Quick Stats
 - 💼 Open to Work & Collaboration
