@@ -1,5 +1,5 @@
+<img align="center" alt="Coding" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhwZDQybWV0dzRwNzg5Y2czYm14ZHloa3dkdDd6eGp3Zzlodmd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XviREE8FiGrRc66ny5/giphy.gif"/>
 
-# Hi, I'm Rishabh Jain 👋
 ### Artificial Intelligence Developer & Full-Stack Engineer | Delhi, India 🌏
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=0891b2&style=flat-square)](https://github.com/Rishh2005)
