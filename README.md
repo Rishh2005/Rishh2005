@@ -1,12 +1,12 @@
 # Hi, I am Rishabh Jain
-### Artificial Intelligence Developer & Full-Stack Engineer | Delhi, India 🌏
+### Artificial Intelligence Learner & Full-Stack Engineer | Delhi, India 🌏
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=0891b2&style=flat-square)](https://github.com/Rishh2005)
 
 ---
 
 ## 🚀 About Me
-Passionate AI developer and technology enthusiast with a strong foundation in machine learning and full-stack development. I specialize in creating intelligent solutions that bridge the gap between complex algorithms and real-world applications.
+Passionate AI developer and technology enthusiast with a strong foundation in machine learning and full-stack development. I specialize in creating innovati solutions that bridge the gap between complex algorithms and real-world applications.
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVxZjVwcDFvZnJ3aWUxa2E3OGoxcHl1YnlycGFnMDVyejdxZmVtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif"/>
 
 - 🔭 Currently working on cutting-edge AI/ML projects and full-stack applications
@@ -135,5 +135,5 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
   </b>
 </div>
 <div align="center" style="margin-top: 10px;">
-  <i style="font-size: 1rem; color: #FFFFFF;">Happy Coding! 🚀</i>
+  <i style="font-size: 1rem; color: #FFFFFF;"></i>
 </div>
