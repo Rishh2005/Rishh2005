@@ -120,18 +120,17 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
   </a>
 </div>
 <div align="center" style="margin: 20px 0;">
-  <!-- GitHub Activity Graph -->
-  <a href="http://www.github.com/Rishh2005">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=true&border_radius=10&custom_title=GitHub%20Activity%20Graph" 
-      alt="GitHub Activity Graph" 
-      style="width: 100%; max-width: 100%; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
-    />
-  </a>
-</div>
+<!-- GitHub Activity Graph (Enhanced) -->
+<a href="http://www.github.com/Rishh2005">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FFFFFF&line=FF4C4C&point=FF4C4C&area=true&area_color=FF4C4C&hide_border=true&radius=10&line_curve=natural&custom_title=🚀%20GitHub%20Activity%20Graph%20of%20Rishabh" 
+    alt="GitHub Activity Graph" 
+    style="width: 100%; max-width: 100%; border-radius: 10px; filter: drop-shadow(0 0 12px rgba(255, 76, 76, 0.8));"
+  />
+</a>
 <div align="center" style="margin-top: 20px;">
-  <b style="font-size: 1.2rem; color: #FF0000; text-shadow: 0 0 10px rgba(255, 0, 0, 0.7);">
-    🔥 Love what you see? Follow me and star my repositories! 🔥
+  <b style="font-size: 1.25rem; color: #FF4C4C; text-shadow: 0 0 10px rgba(255, 76, 76, 0.9);">
+    ⚡ Detailed GitHub Graph – Keep Pushing the Code!
   </b>
 </div>
 <div align="center" style="margin-top: 10px;">
