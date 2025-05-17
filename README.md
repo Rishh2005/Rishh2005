@@ -130,7 +130,6 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 </a>
 <div align="center" style="margin-top: 20px;">
   <b style="font-size: 1.25rem; color: #FF4C4C; text-shadow: 0 0 10px rgba(255, 76, 76, 0.9);">
-    ⚡ Detailed GitHub Graph – Keep Pushing the Code!
   </b>
 </div>
 <div align="center" style="margin-top: 10px;">
