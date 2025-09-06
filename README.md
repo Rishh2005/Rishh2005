@@ -88,49 +88,49 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 ---
 ## 📊 GitHub Statistics
 
-<div align="center">
-</div>
-<div align="center" style="display: flex; flex-direction: row; margin: 20px 0;">
-  <!-- GitHub Language Stats - New Layout -->
-  <a href="https://github.com/Rishh2005">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&theme=radical&langs_count=10&card_width=540&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=true&border_radius=10" 
-      alt="Most Used Languages" 
-      style="width: 100%; max-width: 540px; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
-    />
-  </a>
-</div>
-<div align="center" style="margin: 20px 0;">
-  <!-- GitHub Stats -->
-  <a href="http://www.github.com/Rishh2005">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=true&border_radius=10&custom_title=Rishh2005's%20GitHub%20Stats" 
-      alt="GitHub Stats" 
-      style="width: 100%; max-width: 450px; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
-    />
-  </a>
-</div>
-<div align="center" style="margin: 20px 0; max-width: 100%; overflow-x: auto;">
-  <!-- GitHub Streak Stats -->
-  <a href="http://www.github.com/Rishh2005">
-    <img 
-      src="https://streak-stats.demolab.com?user=Rishh2005&theme=dark&ring=FF0000&fire=FF4500&currStreakNum=FFFFFF&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&hide_border=true&border_radius=10" 
-      alt="GitHub Streak Stats" 
-      style="width: 100%; max-width: 450px; border-radius: 10px; filter: drop-shadow(0 0 10px rgba(255, 0, 0, 0.5));"
-    />
-  </a>
-</div>
-<div align="center" style="margin: 20px 0;">
-<!-- GitHub Activity Graph (Red & White Enhanced) -->
-<a href="https://github.com/Rishh2005" target="_blank">
+  <div align="center">
+
+<!-- 🔹 GitHub Language Stats -->
+<a href="https://github.com/Rishh2005">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true&radius=10&line_curve=natural&custom_title=🔥%20Rishabh%20Jain's%20GitHub%20Activity%20Graph" 
-    alt="GitHub Activity Graph" 
-    style="width: 100%; max-width: 100%; border-radius: 12px; filter: drop-shadow(0 0 12px rgba(255, 0, 0, 0.7));"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&theme=tokyonight&langs_count=10&layout=compact&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=0D1117&hide_border=true&border_radius=12" 
+    alt="Most Used Languages" 
+    width="600"
   />
 </a>
 
-<div align="center" style="margin-top: 20px;">
-  <b style="font-size: 1.3rem; color: #FFFFFF; background: #FF0000; padding: 8px 16px; border-radius: 8px; box-shadow: 0 0 12px rgba(255, 0, 0, 0.7); text-shadow: 0 0 6px rgba(255, 255, 255, 0.8);">
-  </b>
+---
+
+<!-- 🔹 GitHub Stats -->
+<a href="https://github.com/Rishh2005">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=0D1117&hide_border=true&border_radius=12&custom_title=Rishh2005's%20GitHub%20Stats" 
+    alt="GitHub Stats" 
+    width="600"
+  />
+</a>
+
+---
+
+<!-- 🔹 GitHub Streak Stats -->
+<a href="https://github.com/Rishh2005">
+  <img 
+    src="https://streak-stats.demolab.com?user=Rishh2005&theme=tokyonight&ring=00BFFF&fire=1E90FF&currStreakNum=FFFFFF&currStreakLabel=00BFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&hide_border=true&border_radius=12" 
+    alt="GitHub Streak Stats" 
+    width="700"
+  />
+</a>
+
+---
+
+<!-- 🔹 GitHub Activity Graph -->
+<a href="https://github.com/Rishh2005">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FFFFFF&line=00BFFF&point=1E90FF&area=true&area_color=1E90FF&hide_border=true&radius=12&line_curve=natural&custom_title=🔥%20Rishabh%20Jain's%20GitHub%20Activity%20Graph" 
+    alt="GitHub Activity Graph" 
+    width="100%"
+  />
+</a>
+
 </div>
+
