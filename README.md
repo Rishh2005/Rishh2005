@@ -14,7 +14,7 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 - 🌱 Expanding my knowledge in: Advanced ML Architectures, Cloud Computing & System Design
 - 💡 Interested in: Deep Learning, Computer Vision, NLP & Generative AI
 - 🤝 Open to collaborate on: Innovative AI projects, open-source initiatives & hackathons
-- 📧 Reach me at: [rishabhjain1175@gmail.com](mailto:rishabhjain1175@gmail.com)
+- 📧 Reach me at: [omgrishhgmail.com](mailto:omgrishh@gmail.com)
 - 🌙 Fun fact: Night owl who believes the best code is written after midnight!
 - 💪 Motto: "Turning Coffee into Code and Data into Intelligence"
 
