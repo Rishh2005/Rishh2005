@@ -1,72 +1,67 @@
-# Hi, I am Rishabh Jain
-### Artificial Intelligence Learner & Full-Stack Engineer | Delhi, India 🌏
+# Hey, I am Rishabh Jain
+### Artificial Intelligence Tools Learner & Full-Stack Developer | Delhi, India 🌏
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=0891b2&style=flat-square)](https://github.com/Rishh2005)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=00BFFF&style=flat-square)](https://github.com/Rishh2005)
 
 ---
 
 ## 🚀 About Me
-Passionate AI developer and technology enthusiast with a strong foundation in machine learning and full-stack development. I specialize in creating innovati solutions that bridge the gap between complex algorithms and real-world applications.
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVxZjVwcDFvZnJ3aWUxa2E3OGoxcHl1YnlycGFnMDVyejdxZmVtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif"/>
+Passionate AI Explorer and hackathon enthusiast with an extensive background in building real-world solutions. I specialize in training robust machine learning models and developing high-performance full-stack applications, bridging the gap between intelligent algorithms and smooth user experiences.
 
-- 🔭 Currently working on cutting-edge AI/ML projects and full-stack applications
-- 🌱 Expanding my knowledge in: Advanced ML Architectures, Cloud Computing & System Design
-- 💡 Interested in: Deep Learning, Computer Vision, NLP & Generative AI
-- 🤝 Open to collaborate on: Innovative AI projects, open-source initiatives & hackathons
-- 📧 Reach me at: [omgrishhgmail.com](mailto:omgrishh@gmail.com)
-- 🌙 Fun fact: Night owl who believes the best code is written after midnight!
-- 💪 Motto: "Turning Coffee into Code and Data into Intelligence"
+<img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVxZjVwcDFvZnJ3aWUxa2E3OGoxcHl1YnlycGFnMDVyejdxZmVtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif"/>
+
+- 🔭 **Currently working on**: Cutting-edge GenAI/ML workflows and cross-platform architecture.
+- 🏆 **Hackathon Pro**: Participated in over 30+ hackathons crafting functional technical MVPs.
+- 🌱 **Expanding knowledge**: Distributed big data systems, advanced neural network design, and cloud optimization.
+- 🤝 **Open to collaborate**: High-impact open-source initiatives, rapid prototyping, and AI-driven platforms.
+- 📧 **Reach me at**: [omgrishh@gmail.com](mailto:omgrishh@gmail.com)
+- 🌙 **Fun fact**: A night owl who transforms caffeine into optimized models and clean UI components after midnight!
+
+---
 
 ## 💻 Tech Stack
 
 ### 🛠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🧠 AI/ML & Data Science
+### 🌐 Web & Mobile Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧠 AI/ML & Data Engineering
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A84C1?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logicColor=white)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-### 🗄️ Database Technologies
+### 🗄️ Database Systems
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Cloud & Development Tools
+### ☁️ Tools, UI & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 🎮 Game Development
-![Panda3D](https://img.shields.io/badge/Panda3D-003B57?style=for-the-badge&logo=panda3d&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-003B57?style=for-the-badge&logo=python&logoColor=white)
-
-## 📈 Quick Stats
-- 💼 Open to Work & Collaboration
-- 🌟 Active Open Source Contributor
-- 📚 Continuous Learner
-- 🤝 Community Contributor
+---
 
 ## 🌐 Connect With Me
 
@@ -86,51 +81,33 @@ Passionate AI developer and technology enthusiast with a strong foundation in ma
 </div>
 
 ---
-## 📊 GitHub Statistics
 
-  <div align="center">
+## 📊 GitHub Analytics
 
-<!-- 🔹 GitHub Language Stats -->
-<a href="https://github.com/Rishh2005">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&theme=tokyonight&langs_count=10&layout=compact&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=0D1117&hide_border=true&border_radius=12" 
-    alt="Most Used Languages" 
-    width="600"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/Rishh2005">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishh2005&langs_count=8&layout=compact&hide_border=true&border_radius=8&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF" alt="Most Used Languages" width="48%" align="left" />
+  </a>
+  <a href="https://github.com/Rishh2005">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&hide_border=true&border_radius=8&bg_color=000000&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&custom_title=System%20Development%20Metrics" alt="GitHub Stats" width="48%" align="right" />
+  </a>
+</p>
 
----
+<br clear="both"/>
+<br/>
 
-<!-- 🔹 GitHub Stats -->
-<a href="https://github.com/Rishh2005">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Rishh2005&show_icons=true&count_private=true&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=0D1117&hide_border=true&border_radius=12&custom_title=Rishh2005's%20GitHub%20Stats" 
-    alt="GitHub Stats" 
-    width="600"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/Rishh2005">
+    <img src="https://streak-stats.demolab.com?user=Rishh2005&background=000000&hide_border=true&border_radius=8&ring=00BFFF&fire=00BFFF&titleColor=00BFFF&currStreakLabel=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="100%" />
+  </a>
+</p>
 
----
+<br/>
 
-<!-- 🔹 GitHub Streak Stats -->
-<a href="https://github.com/Rishh2005">
-  <img 
-    src="https://streak-stats.demolab.com?user=Rishh2005&theme=tokyonight&ring=00BFFF&fire=1E90FF&currStreakNum=FFFFFF&currStreakLabel=00BFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&hide_border=true&border_radius=12" 
-    alt="GitHub Streak Stats" 
-    width="700"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/Rishh2005">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=000000&color=FFFFFF&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF&hide_border=true&radius=8&line_curve=natural&custom_title=🔥%20Development%20Velocity%20Graph" alt="GitHub Activity Graph" width="100%" />
+  </a>
+</p>
 
 ---
-
-<!-- 🔹 GitHub Activity Graph -->
-<a href="https://github.com/Rishh2005">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rishh2005&bg_color=0D1117&color=FFFFFF&line=00BFFF&point=1E90FF&area=true&area_color=1E90FF&hide_border=true&radius=12&line_curve=natural&custom_title=🔥%20Rishabh%20Jain's%20GitHub%20Activity%20Graph" 
-    alt="GitHub Activity Graph" 
-    width="100%"
-  />
-</a>
-
-</div>
-
