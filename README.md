@@ -1,27 +1,27 @@
 # Hey, I am Rishabh Jain
-### Artificial Intelligence Tools Learner & Full-Stack Developer | Delhi, India 🌏
+### Artificial Intelligence Tools Learner & Full-Stack Developer | Delhi, India 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=00BFFF&style=flat-square)](https://github.com/Rishh2005)
 
 ---
 
-## 🚀 About Me
+## About Me
 Passionate AI Explorer and hackathon enthusiast with an extensive background in building real-world solutions. I specialize in training robust machine learning models and developing high-performance full-stack applications, bridging the gap between intelligent algorithms and smooth user experiences.
 
 <img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVxZjVwcDFvZnJ3aWUxa2E3OGoxcHl1YnlycGFnMDVyejdxZmVtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif"/>
 
-- 🔭 **Currently working on**: Cutting-edge GenAI/ML workflows and cross-platform architecture.
-- 🏆 **Hackathon Pro**: Participated in over 30+ hackathons crafting functional technical MVPs.
-- 🌱 **Expanding knowledge**: Distributed big data systems, advanced neural network design, and cloud optimization.
-- 🤝 **Open to collaborate**: High-impact open-source initiatives, rapid prototyping, and AI-driven platforms.
-- 📧 **Reach me at**: [omgrishh@gmail.com](mailto:omgrishh@gmail.com)
-- 🌙 **Fun fact**: A night owl who transforms caffeine into optimized models and clean UI components after midnight!
+- **Currently working on**: Cutting-edge GenAI/ML workflows and cross-platform architecture.
+- **Hackathon Pro**: Participated in over 30+ hackathons crafting functional technical MVPs.
+- **Expanding knowledge**: Distributed big data systems, advanced neural network design, and cloud optimization.
+- **Open to collaborate**: High-impact open-source initiatives, rapid prototyping, and AI-driven platforms.
+- **Reach me at**: [omgrishh@gmail.com](mailto:omgrishh@gmail.com)
+- **Fun fact**: A night owl who transforms caffeine into optimized models and clean UI components after midnight!
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🛠 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -29,7 +29,7 @@ Passionate AI Explorer and hackathon enthusiast with an extensive background in 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🌐 Web & Mobile Development
+### Web & Mobile Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,7 +38,7 @@ Passionate AI Explorer and hackathon enthusiast with an extensive background in 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 AI/ML & Data Engineering
+### AI/ML & Data Engineering
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -47,13 +47,13 @@ Passionate AI Explorer and hackathon enthusiast with an extensive background in 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A84C1?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logicColor=white)
 
-### 🗄️ Database Systems
+### Database Systems
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Tools, UI & DevOps
+### Tools, UI & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,7 +63,7 @@ Passionate AI Explorer and hackathon enthusiast with an extensive background in 
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="left">
   <a href="https://github.com/Rishh2005" target="_blank">
@@ -82,7 +82,7 @@ Passionate AI Explorer and hackathon enthusiast with an extensive background in 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Rishh2005">
