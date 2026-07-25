@@ -1,4 +1,4 @@
-# Hey, I am Rishabh Jain
+# Hello, I am Rishabh Jain
 ### Artificial Intelligence Tools Learner & Full-Stack Developer | Delhi, India 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=00BFFF&style=flat-square)](https://github.com/Rishh2005)
