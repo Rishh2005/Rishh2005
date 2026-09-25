@@ -3,8 +3,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishh2005&color=00BFFF&style=flat-square)](https://github.com/Rishh2005)
 
----
-
 ## About Me
 Passionate AI Explorer and hackathon enthusiast with an extensive background in building real-world solutions. I specialize in training robust machine learning models and developing high-performance full-stack applications, bridging the gap between intelligent algorithms and smooth user experiences.
 
